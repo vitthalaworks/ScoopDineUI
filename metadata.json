@@ -1,0 +1,6 @@
+{
+  "name": "ScoopDine TV Signage & Menu Studio",
+  "description": "Comprehensive TV display & digital signage configuration studio for restaurants, featuring real-time TV preview, QR styling, item highlighting, banner customizer, and full-screen TV broadcast mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
